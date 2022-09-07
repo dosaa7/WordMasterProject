@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="vocabulary, function of creating and reading">
+    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="increased the space for english word from 15 to 18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
       <updated>1662032190101</updated>
       <workItem from="1662032240177" duration="9013000" />
       <workItem from="1662076936931" duration="1329000" />
-      <workItem from="1662546925950" duration="3340000" />
+      <workItem from="1662546925950" duration="4676000" />
     </task>
     <task id="LOCAL-00001" summary="vocabulary, function of creating and reading">
       <created>1662550456692</created>
@@ -66,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662550456692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="increased the space for english word from 15 to 18">
+      <created>1662552074073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662552074073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vocabulary, function of creating and reading" />
-    <option name="LAST_COMMIT_MESSAGE" value="vocabulary, function of creating and reading" />
+    <MESSAGE value="increased the space for english word from 15 to 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="increased the space for english word from 15 to 18" />
   </component>
 </project>
