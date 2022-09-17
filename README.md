@@ -14,3 +14,4 @@ Update. Delete, File I/O 결과
 ![최종4](https://user-images.githubusercontent.com/112395554/190862424-38836756-ede3-4eeb-a04e-b3f5d0ac6007.JPG)
 ![최종5](https://user-images.githubusercontent.com/112395554/190862425-d4497074-a57b-424c-93a5-a03c6589457a.JPG)
 ![최종6](https://user-images.githubusercontent.com/112395554/190862426-dec77f23-edb4-4888-92fd-3a0010bd8323.JPG)
+![dictionary 파일 캡쳐](https://user-images.githubusercontent.com/112395554/190862888-77779e3e-0bd0-4e0c-9c20-5b3b74db8190.JPG)
