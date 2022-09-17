@@ -1,2 +1,5 @@
-1|gmasi|음냐
-2|dmasi|흠냐
+2|dmasi|흐음냐
+1|bread|빵
+2|tissue|휴지
+3|water|물
+3|pen|펜
