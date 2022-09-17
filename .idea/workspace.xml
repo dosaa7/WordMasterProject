@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="난이도와 단어를 한 번에 받지 않고 나눠서 입력받도록 했다.">
+    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="screenshot 폴더 생성 및 실행 결과 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -35,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/삼성/Desktop/석봉/수업/2022-2/실전프로젝트1/WordMasterProject",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/삼성/Desktop/석봉/수업/2022-2/실전프로젝트1/WordMasterProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +59,9 @@
       <updated>1662032190101</updated>
       <workItem from="1662032240177" duration="9013000" />
       <workItem from="1662076936931" duration="1329000" />
-      <workItem from="1662546925950" duration="6930000" />
+      <workItem from="1662546925950" duration="7803000" />
+      <workItem from="1663025928535" duration="1066000" />
+      <workItem from="1663412767987" duration="3017000" />
     </task>
     <task id="LOCAL-00001" summary="vocabulary, function of creating and reading">
       <created>1662550456692</created>
@@ -80,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662553280921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="난이도와 단어를 한 번에 받지 않고 나눠서 입력받도록 했다.">
+      <created>1662557356990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662557356990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="screenshot 폴더 생성 및 실행 결과 추가">
+      <created>1662557501826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662557501826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +119,7 @@
     <MESSAGE value="vocabulary, function of creating and reading" />
     <MESSAGE value="increased the space for english word from 15 to 18" />
     <MESSAGE value="난이도와 단어를 한 번에 받지 않고 나눠서 입력받도록 했다." />
-    <option name="LAST_COMMIT_MESSAGE" value="난이도와 단어를 한 번에 받지 않고 나눠서 입력받도록 했다." />
+    <MESSAGE value="screenshot 폴더 생성 및 실행 결과 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="screenshot 폴더 생성 및 실행 결과 추가" />
   </component>
 </project>
