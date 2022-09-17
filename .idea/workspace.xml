@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="screenshot 폴더 생성 및 실행 결과 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
+    <list default="true" id="2b9ea55b-e89e-4f49-81a4-5ff868e3d418" name="Changes" comment="Update 기능 추가">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/WordManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/WordManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <workItem from="1662076936931" duration="1329000" />
       <workItem from="1662546925950" duration="7803000" />
       <workItem from="1663025928535" duration="1066000" />
-      <workItem from="1663412767987" duration="3017000" />
+      <workItem from="1663412767987" duration="3315000" />
     </task>
     <task id="LOCAL-00001" summary="vocabulary, function of creating and reading">
       <created>1662550456692</created>
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662557501826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update 기능 추가">
+      <created>1663416231610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663416231610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +126,7 @@
     <MESSAGE value="increased the space for english word from 15 to 18" />
     <MESSAGE value="난이도와 단어를 한 번에 받지 않고 나눠서 입력받도록 했다." />
     <MESSAGE value="screenshot 폴더 생성 및 실행 결과 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="screenshot 폴더 생성 및 실행 결과 추가" />
+    <MESSAGE value="Update 기능 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 기능 추가" />
   </component>
 </project>
